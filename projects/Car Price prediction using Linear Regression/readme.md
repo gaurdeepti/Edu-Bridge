@@ -1,1 +1,1 @@
-
+This file contains Car Price prediction using Linear Regression . In this the file the libraries which i used is pandas,numpy , matplotlib, seaborn, Scikit-learn. This has depth analysis and predcition Model. 
