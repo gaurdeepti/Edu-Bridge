@@ -1,1 +1,1 @@
-
+It contains Titanic Prediction using Logistic Regressionand, in depth analysis using Eda and Visulization  on python. in this using different libraries like pandas , numpy, matplotlib. seaborn  and SciKit learn.
